@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Franklin van Nes</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blogs on Franklin van Nes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 11:56:03 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>http://example.org/blog/first-blog-post/</link>
+      <pubDate>Tue, 01 Sep 2020 11:56:03 -0400</pubDate>
+      
+      <guid>http://example.org/blog/first-blog-post/</guid>
+      <description>This is a test! Welcome to my first blog post.
+Here are some ideas for articles:
+ How to make a website that doesn&amp;rsquo;t destroy battery life. Profiling web apps. The good and the bad. Why do people cheat at Call of Duty? Cheating pt I: How does cheat software work? Cheating part II: How does anti cheat work?  </description>
+    </item>
+    
+  </channel>
+</rss>
