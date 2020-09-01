@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-09-01T11:56:03-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/blog/</loc>
     <lastmod>2020-09-01T11:56:03-04:00</lastmod>
   </url>
@@ -13,37 +18,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-09-01T11:56:03-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2020-08-27T17:56:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-08-27T17:56:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/private/</loc>
-    <lastmod>2020-08-27T17:56:24-04:00</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
-    <lastmod>2020-08-27T17:56:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/test/</loc>
-    <lastmod>2020-08-27T17:56:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
   </url>
   
 </urlset>
