@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 11:56:03 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>http://example.org/blog/first-blog-post/</link>
+      <pubDate>Tue, 01 Sep 2020 11:56:03 -0400</pubDate>
+      
+      <guid>http://example.org/blog/first-blog-post/</guid>
+      <description>This is a test! Welcome to my first blog post.
+Here are some ideas for articles:
+ How to make a website that doesn&amp;rsquo;t destroy battery life. Profiling web apps. The good and the bad. Why do people cheat at Call of Duty? Cheating pt I: How does cheat software work? Cheating part II: How does anti cheat work?  </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 27 Aug 2020 17:56:24 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>This post exists so that I can see if it shows up on frvannes.github.io.
+Disregard this if it is ever published.</description>
+    </item>
+    
+  </channel>
+</rss>
